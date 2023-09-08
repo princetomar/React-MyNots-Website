@@ -1,3 +1,4 @@
-# Notes App in React.js
+# MyNots App in React.js
 
-![Screenshot (421)](https://user-images.githubusercontent.com/89729177/132137360-3515b331-6d30-48ea-9959-3b5815e66593.png)
+![image](https://github.com/princetomar/React-MyNots-Website/assets/71916212/82637502-0632-40e0-8310-58c32acfec9d)
+
